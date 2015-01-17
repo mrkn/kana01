@@ -3,3 +3,5 @@ class Calculator
     44
   end
 end
+
+require 'calculator/parser'
